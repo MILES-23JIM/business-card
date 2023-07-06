@@ -54,7 +54,7 @@ body {
 
 @keyframes zoom {
     from {transform: scale(1) translate(0px)}
-    to {transform: scale(8) translate(100px, 60px)}
+    to {transform: scale(7) translate(100px, 60px)}
     
 }
 
